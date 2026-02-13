@@ -1,0 +1,60 @@
+{
+  "candidate_id": 4,
+  "vacancy_id": 9,
+  "application_id": 26,
+  "resume_path": "C:\\Users\\Administrator\\OneDrive\\Namit\\CollegeProject\\ProjectCode\\backend\\media\\resumes/Namit_Resume_G6OVKh5.PDF",
+  "scorer_result": {
+    "skill_match_pct": 0.0,
+    "matched_skills": [],
+    "missing_skills": [
+      "active directory",
+      "backup and recovery",
+      "cisco devices",
+      "dhcp",
+      "dns",
+      "firewall configuration",
+      "linux administration",
+      "network monitoring tools",
+      "network security",
+      "routing and switching",
+      "tcp/ip",
+      "troubleshooting",
+      "vlan",
+      "vpn setup",
+      "windows server",
+      "wireshark"
+    ],
+    "education_match": true,
+    "job_title_match": false,
+    "extracted_job_titles": [
+      "models",
+      "web developers"
+    ],
+    "matched_job_titles": [],
+    "experience_years": 2,
+    "experience_score": 100.0,
+    "keyword_match_pct": 0.0,
+    "matched_keywords": [],
+    "missing_keywords": [
+      "cybersecurity",
+      "firewall management",
+      "infrastructure support",
+      "lan wan support",
+      "network configuration",
+      "network monitoring",
+      "router configuration",
+      "server administration",
+      "switch management",
+      "vpn configuration"
+    ],
+    "semantic_similarity": 1.85,
+    "final_score": 33.28,
+    "fit_summary": "The candidate has 2 years of experience, which meets the minimum experience requirement for the Network Administrator role. However, the skill match is 0.0%, indicating a significant gap in the required skills. The candidate is missing all the key skills, including active directory, cisco devices, dns, dhcp, and network security. The semantic similarity is also very low at 1.85%, suggesting that the candidate's profile does not closely match the job requirements. The education match is true, but the job title match is false, which may indicate a lack of direct experience in the field. Overall, the candidate's profile does not align well with the job requirements, and the final score of 33.28% reflects this. The candidate would need significant training and development to be considered for this role.",
+    "recommendation": "Not Recommended",
+    "strengths": [],
+    "weaknesses": [
+      "Lack of required technical skills",
+      "No direct experience in the field"
+    ]
+  }
+}

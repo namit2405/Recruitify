@@ -1,0 +1,60 @@
+{
+  "candidate_id": 4,
+  "vacancy_id": 10,
+  "application_id": 27,
+  "resume_path": "C:\\Users\\Administrator\\OneDrive\\Namit\\CollegeProject\\ProjectCode\\backend\\media\\resumes/Namit_Resume_G6OVKh5.PDF",
+  "scorer_result": {
+    "skill_match_pct": 16.67,
+    "matched_skills": [
+      "problem solving",
+      "time management"
+    ],
+    "missing_skills": [
+      "conflict resolution",
+      "erp systems",
+      "inventory management",
+      "logistics coordination",
+      "ms excel",
+      "osha compliance",
+      "performance monitoring",
+      "staff scheduling",
+      "team leadership",
+      "warehouse operations"
+    ],
+    "education_match": false,
+    "job_title_match": false,
+    "extracted_job_titles": [
+      "models",
+      "web developers"
+    ],
+    "matched_job_titles": [],
+    "experience_years": 2,
+    "experience_score": 0.0,
+    "keyword_match_pct": 11.11,
+    "matched_keywords": [
+      "team management"
+    ],
+    "missing_keywords": [
+      "cargo operations",
+      "distribution center",
+      "freight handling",
+      "kpi monitoring",
+      "logistics management",
+      "safety compliance",
+      "shift scheduling",
+      "warehouse supervision"
+    ],
+    "semantic_similarity": 3.87,
+    "final_score": 7.75,
+    "fit_summary": "The candidate has a limited skill set and experience that aligns with the Shift Manager - Warehouse Operations role. With only 2 years of experience, they fall short of the minimum 3 years required. The candidate's skill match is also low at 16.67%, indicating a significant gap in the required skills. However, they do possess some relevant skills such as problem-solving and time management. Despite this, the candidate is missing several key skills, including conflict resolution, ERP systems, and warehouse operations. Overall, the candidate's profile suggests that they may not be ready for a shift manager role. Their education and job title do not match the requirements, further reducing their suitability for the position.",
+    "recommendation": "Low Priority",
+    "strengths": [
+      "problem solving",
+      "time management"
+    ],
+    "weaknesses": [
+      "lack of relevant experience",
+      "significant skill gaps in key areas such as warehouse operations, logistics coordination, and OSHA compliance"
+    ]
+  }
+}

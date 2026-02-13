@@ -1,0 +1,60 @@
+{
+  "candidate_id": 7,
+  "vacancy_id": 8,
+  "application_id": 25,
+  "resume_path": "C:\\Users\\user\\OneDrive\\Namit\\CollegeProject\\ProjectCode\\backend\\media\\resumes/freelance-web-developer-resume-example.pdf",
+  "scorer_result": {
+    "skill_match_pct": 40.0,
+    "matched_skills": [
+      "git",
+      "react",
+      "responsive design",
+      "sql"
+    ],
+    "missing_skills": [
+      "css",
+      "django",
+      "html",
+      "javascript",
+      "python",
+      "rest api"
+    ],
+    "education_match": true,
+    "job_title_match": true,
+    "extracted_job_titles": [
+      "web developer"
+    ],
+    "matched_job_titles": [
+      "web developer"
+    ],
+    "experience_years": 0.0,
+    "experience_score": 0.0,
+    "keyword_match_pct": 22.22,
+    "matched_keywords": [
+      "api integration",
+      "database management"
+    ],
+    "missing_keywords": [
+      "backend development",
+      "cross browser compatibility",
+      "debugging",
+      "frontend development",
+      "full stack",
+      "performance optimization",
+      "web security"
+    ],
+    "semantic_similarity": 25.34,
+    "final_score": 42.47,
+    "fit_summary": "The candidate has a low overall fit for the Web Developer role, with a final score of 42.47% and a skill match of 40.0%. Although they have some relevant skills such as git, react, responsive design, and sql, they are missing key skills like css, django, html, javascript, python, and rest api. The candidate also lacks experience, with 0 years of experience, which is below the minimum requirement of 2 years. However, they do have a matching job title and education, which is a positive aspect. The semantic similarity is relatively low at 25.34%, indicating that the candidate's profile may not be closely aligned with the job requirements. Overall, the candidate's lack of experience and missing skills are significant concerns. The candidate's profile also lacks important keywords like backend development, cross browser compatibility, debugging, frontend development, full stack, performance optimization, and web security.",
+    "recommendation": "Low Priority",
+    "strengths": [
+      "Matching job title",
+      "Relevant education",
+      "Some relevant skills like git, react, responsive design, and sql"
+    ],
+    "weaknesses": [
+      "Lack of experience",
+      "Missing key skills like css, django, html, javascript, python, and rest api"
+    ]
+  }
+}

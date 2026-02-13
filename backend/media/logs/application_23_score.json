@@ -1,0 +1,68 @@
+{
+  "candidate_id": 2,
+  "vacancy_id": 8,
+  "application_id": 23,
+  "resume_path": "C:\\Users\\Administrator\\OneDrive\\Namit\\CollegeProject\\ProjectCode\\backend\\media\\resumes/Namit_Resume_6WXLh4W.PDF",
+  "scorer_result": {
+    "skill_match_pct": 100.0,
+    "matched_skills": [
+      "css",
+      "django",
+      "git",
+      "html",
+      "javascript",
+      "python",
+      "react",
+      "responsive design",
+      "rest api",
+      "sql"
+    ],
+    "missing_skills": [],
+    "education_match": true,
+    "job_title_match": true,
+    "extracted_job_titles": [
+      "backend developer",
+      "frontend developer",
+      "full stack developer",
+      "models",
+      "web developer",
+      "web developers"
+    ],
+    "matched_job_titles": [
+      "backend developer",
+      "frontend developer",
+      "full stack developer",
+      "web developer",
+      "web developers"
+    ],
+    "experience_years": 2,
+    "experience_score": 100.0,
+    "keyword_match_pct": 66.67,
+    "matched_keywords": [
+      "api integration",
+      "backend development",
+      "database management",
+      "debugging",
+      "frontend development",
+      "full stack"
+    ],
+    "missing_keywords": [
+      "cross browser compatibility",
+      "performance optimization",
+      "web security"
+    ],
+    "semantic_similarity": 15.13,
+    "final_score": 83.27,
+    "fit_summary": "The candidate has a strong technical skill set, with a 100% skill match for the required skills, including git, javascript, html, python, responsive design, django, css, rest api, and sql. The candidate also meets the minimum experience requirement of 2 years. However, the semantic similarity score is relatively low at 15.13%, indicating that the candidate's background and experience may not be a perfect fit for the company's specific needs. The candidate is also missing some important keywords such as cross browser compatibility, performance optimization, and web security, which are crucial for a web developer role. Despite these gaps, the candidate's overall score of 83.27% suggests that they have a solid foundation in web development. With some additional training or experience, the candidate could be a strong fit for the role. Overall, the candidate's technical skills and experience make them a viable candidate for the position.",
+    "recommendation": "Strongly Recommend Interview",
+    "strengths": [
+      "100% skill match for required skills",
+      "Meets minimum experience requirement",
+      "Strong technical foundation in web development"
+    ],
+    "weaknesses": [
+      "Low semantic similarity score",
+      "Missing important keywords such as cross browser compatibility, performance optimization, and web security"
+    ]
+  }
+}

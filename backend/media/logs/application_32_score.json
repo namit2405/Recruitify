@@ -1,0 +1,50 @@
+{
+  "candidate_id": 7,
+  "vacancy_id": 8,
+  "application_id": 32,
+  "resume_path": "C:\\Users\\Administrator\\OneDrive\\Namit\\CollegeProject\\ProjectCode\\backend\\media\\resumes/selftest_8_3_ruchika CV 1.pdf",
+  "scorer_result": {
+    "skill_match_pct": 0.0,
+    "matched_skills": [],
+    "missing_skills": [
+      "css",
+      "django",
+      "git",
+      "html",
+      "javascript",
+      "python",
+      "react",
+      "responsive design",
+      "rest api",
+      "sql"
+    ],
+    "education_match": true,
+    "job_title_match": false,
+    "extracted_job_titles": [],
+    "matched_job_titles": [],
+    "experience_years": 0.0,
+    "experience_score": 0.0,
+    "keyword_match_pct": 0.0,
+    "matched_keywords": [],
+    "missing_keywords": [
+      "api integration",
+      "backend development",
+      "cross browser compatibility",
+      "database management",
+      "debugging",
+      "frontend development",
+      "full stack",
+      "performance optimization",
+      "web security"
+    ],
+    "semantic_similarity": 4.88,
+    "final_score": 17.73,
+    "fit_summary": "The candidate's evaluation data indicates a very low skill match of 0.0% and no relevant work experience, which are significant concerns for the Web Developer role. The candidate is also missing all the required technical skills, including html, javascript, and python, as well as key concepts like api integration and database management. Despite having an education match, the candidate's overall final score is only 17.73%, suggesting a lack of alignment with the job requirements. The semantic similarity score of 4.88% further reinforces this assessment. Given the candidate's limited background and skills, it is unlikely they would be able to perform the duties of a Web Developer without significant training and development. The candidate's job title does not match the role, which may indicate a lack of relevant professional experience. Overall, the candidate's profile does not demonstrate the necessary technical expertise or experience for the position.",
+    "recommendation": "Not Recommended",
+    "strengths": [],
+    "weaknesses": [
+      "Lack of relevant technical skills",
+      "No professional experience in the field"
+    ]
+  }
+}

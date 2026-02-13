@@ -1,0 +1,69 @@
+{
+  "candidate_id": 6,
+  "vacancy_id": 9,
+  "application_id": 24,
+  "resume_path": "C:\\Users\\Administrator\\OneDrive\\Namit\\CollegeProject\\ProjectCode\\backend\\media\\resumes/Gourav_Kumar_Jha_Resume.pdf",
+  "scorer_result": {
+    "skill_match_pct": 37.5,
+    "matched_skills": [
+      "dns",
+      "firewall configuration",
+      "network monitoring tools",
+      "network security",
+      "tcp/ip",
+      "troubleshooting"
+    ],
+    "missing_skills": [
+      "active directory",
+      "backup and recovery",
+      "cisco devices",
+      "dhcp",
+      "linux administration",
+      "routing and switching",
+      "vlan",
+      "vpn setup",
+      "windows server",
+      "wireshark"
+    ],
+    "education_match": true,
+    "job_title_match": true,
+    "extracted_job_titles": [
+      "it network administrator",
+      "system and network administrator"
+    ],
+    "matched_job_titles": [
+      "it network administrator",
+      "system and network administrator"
+    ],
+    "experience_years": 4,
+    "experience_score": 100.0,
+    "keyword_match_pct": 80.0,
+    "matched_keywords": [
+      "firewall management",
+      "infrastructure support",
+      "network configuration",
+      "network monitoring",
+      "router configuration",
+      "server administration",
+      "switch management",
+      "vpn configuration"
+    ],
+    "missing_keywords": [
+      "cybersecurity",
+      "lan wan support"
+    ],
+    "semantic_similarity": 40.03,
+    "final_score": 66.73,
+    "fit_summary": "The candidate has 4 years of experience, which exceeds the minimum requirement of 2 years, and their education and job title match the role of Network Administrator. However, their skill match is only 37.5%, indicating a significant gap in required skills. They possess some key skills such as DNS, firewall configuration, and network security, but are lacking in crucial areas like Cisco devices, Linux administration, and VLAN. The candidate's semantic similarity score of 40.03% suggests some alignment with the job requirements, but also highlights the need for further evaluation. Overall, while the candidate shows some promise, their incomplete skill set raises concerns about their ability to perform the job effectively. Further assessment is necessary to determine their potential for success in the role.",
+    "recommendation": "Consider",
+    "strengths": [
+      "Relevant experience exceeding minimum requirement",
+      "Possession of key skills like DNS and network security",
+      "Education and job title match"
+    ],
+    "weaknesses": [
+      "Limited skill match with significant gaps in required skills",
+      "Lack of experience with critical technologies like Cisco devices and Linux administration"
+    ]
+  }
+}
